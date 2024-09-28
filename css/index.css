@@ -579,14 +579,14 @@ img {
   background: url(../assets/tag-bg.svg) center no-repeat;
   background-size: contain;
 }
-.about-token__tag_tron::after {
+/* .about-token__tag_tron::after {
   content: "";
   display: block;
   flex: 0 0 auto;
   width: 28px;
   height: 28px;
-  background: url(../assets/tron.png);
-}
+  background: url(../assets/sui.webp);
+} */
 .about-token__text {
   max-width: 550px;
   margin: 20px auto;
